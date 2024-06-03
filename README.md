@@ -5,9 +5,9 @@
 
 ## Description
 
-The "Dalel" app is a comprehensive source that takes users on a journey through the history of Egyptian and Pharaonic civilization. It provides detailed information about historical events and wars that shaped this great civilization, offering a deep understanding of Egyptian heritage and culture.
-
-In addition, "Dalel" allows history enthusiasts and art collectors to enjoy a unique experience through a dedicated section for selling artifacts. Users can explore and acquire authentic pieces that reflect the beauty and luxury of the arts and craftsmanship during the Egyptian and Pharaonic eras.
+Unveil the wonders of Egyptian and Pharaonic history through a rich and immersive journey.
+Gain deep insights into pivotal events and wars, fostering a profound understanding of the
+captivating Egyptian heritage
 
 ## Features
 
